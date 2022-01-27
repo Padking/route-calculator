@@ -1,0 +1,22 @@
+{
+  "Ул. Парковая, 1": {
+    "coords": [0, 2],
+    "start_end_point_sign": "Почтовое отделение"
+  },
+  "Ул. Грибоедова, 104/25": {
+    "coords": [2, 5],
+    "start_end_point_sign": ""
+  },
+  "Ул. Бейкер стрит, 221б": {
+    "coords": [5, 2],
+    "start_end_point_sign": ""
+  },
+  "Ул. Большая Садовая, 302-бис": {
+    "coords": [6, 6],
+    "start_end_point_sign": ""
+  },
+  "Вечнозелёная Аллея, 742": {
+    "coords": [8, 3],
+    "start_end_point_sign": ""
+  }
+}
